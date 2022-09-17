@@ -1,0 +1,22 @@
+.header{
+    width: 100%;
+   }
+
+.heading{
+  float: left;
+  display: inline;
+}
+
+.header button{
+    float: right;
+    border-color: aliceblue;
+    margin-top: 20px;
+}
+
+.mario{
+    width: 100%;
+}
+
+.play, .status2{
+    font-size: 20px;
+}
